@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Electronic Engineering, The Chinese University of Hong Kong</a>. Room 424, Ho Sin-Hang Engineering Building, CUHK, Shatin, N.T., Hong Kong. Contacts. Moto. Etc.
+subtitle: <a href='#'>The Chinese University of Hong Kong</a>.  beileicui AT link.cuhk.edu.hk Moto. Etc.
 
 profile:
   align: right
