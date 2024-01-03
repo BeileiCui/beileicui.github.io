@@ -23,4 +23,4 @@ I am currently a Ph.D student at [Medical Mechatronics Lab](http://www.labren.or
 
 My research interests include artificial intelligent applications in medical image analysis, robotic perception and robotic navigation. I am recently working on monocular depth estimation, 3D reconstruction, NeRF, noisy label learning.
 
-I am always passionate about discussion or potential cooperation opportunities so feel free to contact me via email if have related inquiries! [Medical Mechatronics Lab](http://www.labren.org/mm/) is also open for research interns, don't hesitate to contact me if you are interested.
+I am always passionate about discussion or potential cooperation opportunities so feel free to contact me via email if have related inquiries! [Medical Mechatronics Lab](http://www.labren.org/mm/) is also open for __research interns__, don't hesitate to contact me if you are interested.
