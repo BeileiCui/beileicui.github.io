@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Chinese University of Hong Kong</a>.  Email beileicui AT link.cuhk.edu.hk
+subtitle: <a href='#'>Department of Electronic Engineering, The Chinese University of Hong Kong</a>.
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>Room 424</p>
     <p>Ho Sin-Hang Engineering Building, CUHK, Shatin</p>
     <p>N.T., Hong Kong, 999077</p>
+    <p>beileicui AT link.cuhk.edu.hk</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
