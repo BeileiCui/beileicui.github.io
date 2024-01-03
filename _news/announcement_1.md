@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper about noisy label learning for medical video segmentation is accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/).
+One paper on noisy label learning for medical video segmentation is accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/).
