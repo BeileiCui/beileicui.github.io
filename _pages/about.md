@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Chinese University of Hong Kong</a>.  beileicui AT link.cuhk.edu.hk Moto. Etc.
+subtitle: <a href='#'>The Chinese University of Hong Kong</a>.  Email: beileicui AT link.cuhk.edu.hk
 
 profile:
   align: right
