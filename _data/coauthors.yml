@@ -1,8 +1,11 @@
-"Long Bai":
-  - firstname: ["Long", "Long Bai", "L. Bai."]
+"Bai":
+  - firstname: ["Long", "L."]
     url: https://longbai-cuhk.github.io/
 
-"An Wang":
-  - firstname: ["An", "Wang An", "A.Wang"]
+"Wang":
+  - firstname: ["An", "A."]
     url: https://lofrienger.github.io/
 
+"Mobarakol":
+  - firstname: ["Islam", "I."]
+    url: https://mobarakol.github.io/
