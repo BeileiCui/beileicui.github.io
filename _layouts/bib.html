@@ -11,9 +11,9 @@
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
             {% include figure.html
             path=entry_path
-            sizes = "200px"
+            sizes = "300px"
             class="preview z-depth-1 rounded"
-            zoomable=false
+            zoomable=true
             alt=entry.preview -%}
           {%- endif -%}
         {%- elsif entry.abbr -%}
