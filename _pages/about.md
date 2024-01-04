@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Chinese University of Hong Kong </a>. beileicui AT link.cuhk.edu.hk
+subtitle: <a href='#'>The Chinese University of Hong Kong </a>. 
 
 profile:
   align: right
@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Room 424, Ho Sin-Hang Engineering Building</p>
     <p>CUHK, Shatin, N.T., Hong Kong, 999077</p>
+    <p>Email: beileicui AT link.cuhk.edu.hk</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
