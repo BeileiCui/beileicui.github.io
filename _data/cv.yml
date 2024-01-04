@@ -2,32 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Beilei Cui
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th March 1999
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D
+      institution: The Chinese University of Hong Kong, Hong Kong SAR
+      year: 2022-current
       description:
-        - Description 1.
-        - Description 2.
+        - Department of Department of Electronic Engineering.
+        - Medical Mechatronics Lab, supervised by Prof.Hongliang Ren.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.Sc
+      institution: Imperial College London, UK
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
-
+        - Department of Electrical and Electronic Engineering.
+        - Advised by Dr.Javier Barria.
+    - title: B.Eng
+      institution: University of Electronic Science and Technology of China, China
+      year: 2017-2021
+      description:
+        - School of Information and Communication Engineering.
+        - Advised by Prof.Zhizhong Fu.
+        
 - title: Experience
   type: time_table
   contents:
