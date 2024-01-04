@@ -9,9 +9,8 @@ profile:
   image: Photo_Cui_Beilei.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 424</p>
-    <p>Ho Sin-Hang Engineering Building, CUHK, Shatin</p>
-    <p>N.T., Hong Kong, 999077</p>
+    <p>Room 424, Ho Sin-Hang Engineering Building</p>
+    <p>CUHK, Shatin, N.T., Hong Kong, 999077</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
