@@ -1,11 +1,11 @@
----
+
 layout: page
 permalink: /publications/
 title: publications
-description:  ^* indicates equal contribution;  ^† indicates corresponding author.
+description:  \* indicates equal contribution;  \† indicates corresponding author.
 nav: true
 nav_order: 2
----
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
