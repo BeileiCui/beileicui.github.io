@@ -135,7 +135,7 @@
         {%- capture periodical -%}{{ entrytype }}
               {%- if entrytype_text != "" and entryyear != "" -%}, 
               {%- endif -%}
-              {%- if entrytype_text != "" and entryinfo != "" -%}, 
+              {%- if entryinfo != "" -%}, 
                   {{ entryinfo }}
               {%- endif -%}
               {{ entrymonth }}{{ entryyear }}{%- endcapture -%}
