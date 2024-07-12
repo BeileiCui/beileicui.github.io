@@ -135,9 +135,6 @@
         {%- capture periodical -%}{{ entrytype }}
               {%- if entrytype_text != "" and entryyear != "" -%}, 
               {%- endif -%}
-              {%- if entryinfo != "" -%}, 
-                  {{ entryinfo }}
-              {%- endif -%}
               {{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
