@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper [MMAT-OCT](https://www.nature.com/articles/s41467-024-51633-x) is accepted by Nature Communication!
+One paper [MMAT-OCT](https://www.nature.com/articles/s41467-024-51633-x) is accepted by [Nature Communication](https://www.nature.com/ncomms/)!
