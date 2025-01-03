@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper [V2-SfMLearner](https://arxiv.org/pdf/2412.17595) on monocular depth estimation is accepted by [T-ASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
+One paper [V $\^{} 2$-SfMLearner](https://arxiv.org/pdf/2412.17595) on monocular depth estimation is accepted by [T-ASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
