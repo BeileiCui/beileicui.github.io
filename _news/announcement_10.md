@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[TR2M](https://arxiv.org/abs/2506.13387) on transferring relative depth to metric depth is online.
+[__TR2M__](https://arxiv.org/abs/2506.13387) on transferring relative depth to metric depth is online.
