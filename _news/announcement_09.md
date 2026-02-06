@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Two papers, Endo-4DGX and SurgOVGS, are accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/).
+Two papers, __Endo-4DGX__ and __SurgOVGS__, are accepted by [__MICCAI 2025__](https://conferences.miccai.org/2025/en/).
 
 
 
