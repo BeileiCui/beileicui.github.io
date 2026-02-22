@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper, __TR2M__ on depth transformation with language assistance, is accepted by [__CVPR 2026__](https://cvpr.thecvf.com/Conferences/2026)!
+One paper, TR2M on depth transformation with language assistance, is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)!
 
