@@ -18,3 +18,9 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+// Highlight my own name in author list
+.author .self-author {
+  font-weight: 700;
+  text-decoration: underline;
+}
