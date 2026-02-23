@@ -15,7 +15,7 @@ nav_order: 6
 ## Reviewer
 
 
-### Journals:
+#### Journals:
 * IEEE Robotics and Automation Letters (RA-L)
 * IEEE Transactions on Medical Imaging (TMI)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -24,7 +24,7 @@ nav_order: 6
 * Medical Image Analysis (MedIA)
 
 
-### Conferences:
+#### Conferences:
 * AAAI 2026
 * CVPR 2026
 * IPCAI 2024, 2025
