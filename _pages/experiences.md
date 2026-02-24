@@ -47,3 +47,7 @@ nav_order: 6
 * 2024-2025 Fall     ENGG2310B  Principles of Communication Systems, Teaching Assistant
 
 * 2024-2025 Spring   ELEG3601   Introduction to Electric Power Systems, Teaching Assistant
+
+* 2025-2026 Fall     ENGG2310B  Principles of Communication Systems, Teaching Assistant
+
+* 2025-2026 Spring   ELEG5600   Advanced Perception for Intelligent Robotics, Teaching Assistant
