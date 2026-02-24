@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /services/
-title: Services
-description: Community services, teachings, and others.
+permalink: /experiences/
+title: Experiences
+description: Personal Experiences such as work experiences, community services, teachings, and others.
 nav: true
 nav_order: 6
 ---
