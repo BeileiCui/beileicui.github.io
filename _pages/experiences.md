@@ -8,8 +8,8 @@ nav_order: 6
 ---
 
 ## Workshop Organizer
-* (Proceedings of the Embodied AI and Robotics for HealTHcare Workshop (MICCAI EARTH 2024))[https://link.springer.com/book/10.1007/978-3-031-77610-6], Program Committee
-* (Efficient Medical AI (EMA4MICCAI 2025))[https://sites.google.com/view/ema4miccai2025], Program Committee
+* [Proceedings of the Embodied AI and Robotics for HealTHcare Workshop (MICCAI EARTH 2024)](https://link.springer.com/book/10.1007/978-3-031-77610-6), Program Committee
+* [Efficient Medical AI (EMA4MICCAI 2025)](https://sites.google.com/view/ema4miccai2025), Program Committee
 
 
 ## Reviewer
