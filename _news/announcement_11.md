@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper, EndoDDC on endoscopic depth completion, is accepted by [ICRA 2026](https://2026.ieee-icra.org/)!
+One paper, [EndoDDC](https://arxiv.org/abs/2602.21893) on endoscopic depth completion, is accepted by [ICRA 2026](https://2026.ieee-icra.org/)!
