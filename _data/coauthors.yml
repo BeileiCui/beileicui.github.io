@@ -1,31 +1,31 @@
-"Bai":
+"bai":
   - firstname: ["Long", "L."]
     url: https://longbai-cuhk.github.io/
 
-"Wang":
+"wang":
   - firstname: ["An", "A."]
     url: https://lofrienger.github.io/
 
-"Xu":
+"xu":
   - firstname: ["Mengya", "M."]
     url: https://xumengyaamy.github.io/
     
-"Islam":
+"islam":
   - firstname: ["Mobarakol", "M."]
     url: https://mobarakol.github.io/
 
-"Huang":
+"huang":
   - firstname: ["Yiming", "Y."]
     url: https://lastbasket.github.io/
     
-"Ren":
+"ren":
   - firstname: ["Hongliang", "H."]
     url: https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang
 
-"Yuan":
+"yuan":
   - firstname: ["Sishen", "S."]
     url: https://scholar.google.com/citations?user=oq5omiMAAAAJ
 
-"Wang":
+"wang":
   - firstname: ["Guankun", "G."]
     url: https://gkwang-cuhk.github.io/
