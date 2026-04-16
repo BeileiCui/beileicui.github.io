@@ -1,16 +1,16 @@
 cv:
-  name: Albert Einstein
+  name: Beilei Cui
   label: Scientist
-  email: einstein@example.com
+  email: beileicui@gmail.com
   location: Princeton, NJ
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Test Test
 
   social_networks:
     - network: X
       username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: BeileiCui
     - network: LinkedIn
       username: example
 
@@ -23,28 +23,19 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: The Chinese University of Hong Kong
+        location: Hong Kong SAR, China
         url: https://www.uzh.ch/
-        area: Physics
+        area: Electronic Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2022.08
+        end_date: current
         score: ""
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
@@ -65,24 +56,6 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
