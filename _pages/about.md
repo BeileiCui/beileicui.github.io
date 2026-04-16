@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Photo_Cui_Beilei.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 424, Ho Sin-Hang Engineering Building</p>
+    <p>CUHK, Shatin, N.T., Hong Kong, 999077</p>
+    <p>Email: beileicui AT link.cuhk.edu.hk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Ph.D student at [Robotics, Embodied AI, Navigation in vivo Lab (REN Lab)](http://www.labren.org/mm/) of the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Previously, I received my B.Eng. degree in 2021 in [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by [Prof. Zhizhong Fu](https://www.sice.uestc.edu.cn/info/1450/11711.htm). I also studied at [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) in [Imperial College London](https://www.imperial.ac.uk/) and received my M.Sc degree in 2022 advised by [Dr. Javier Barria](https://www.imperial.ac.uk/people/j.barria).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include artificial intelligent applications in medical image analysis, robotic perception and robotic navigation. I am recently working on self-supervised monocular depth estimation, 3D reconstruction, NeRF, noisy label learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am always passionate about discussion or potential cooperation opportunities so feel free to contact me via email if have related inquiries! [REN Lab](http://www.labren.org/mm/) is also open for __research interns__, don't hesitate to contact me if you are interested. Specifically, [Student helper programme](https://www.osa.cuhk.edu.hk/flourishingcuhk/student-helper-engagement-scheme/for-students/) are available for CUHK undergraduate & MSc students.
