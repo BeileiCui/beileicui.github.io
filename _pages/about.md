@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am currently a Ph.D student at [Robotics, Embodied AI, Navigation in vivo Lab (REN Lab)](http://www.labren.org/mm/) of the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Previously, I received my B.Eng. degree in 2021 in [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by [Prof. Zhizhong Fu](https://www.sice.uestc.edu.cn/info/1450/11711.htm). I also studied at [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/) in [Imperial College London](https://www.imperial.ac.uk/) and received my M.Sc degree in 2022 advised by [Dr. Javier Barria](https://www.imperial.ac.uk/people/j.barria).
