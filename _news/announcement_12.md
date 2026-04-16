@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<!-- One paper, [TR2M](https://arxiv.org/abs/2506.13387) on depth transformation with language assistance, is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)! -->
+One paper, [TR2M](https://arxiv.org/abs/2506.13387) on depth transformation with language assistance, is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)!
 
 
