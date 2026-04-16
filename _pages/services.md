@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: Services
+title: services
 description: Community services, teachings, and others.
 nav: true
 nav_order: 6
