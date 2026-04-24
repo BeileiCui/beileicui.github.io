@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-24'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
-    citations: 20
+    citations: 21
     title: Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
     year: '2025'
   G-WO0oYAAAAJ:9ZlFYXVOiuMC:
@@ -38,7 +38,7 @@ papers:
     title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 89
+    citations: 90
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
@@ -82,6 +82,6 @@ papers:
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 82
+    citations: 83
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
