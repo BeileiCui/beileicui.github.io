@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-27'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
-    citations: 21
+    citations: 22
     title: Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
     year: '2025'
   G-WO0oYAAAAJ:9ZlFYXVOiuMC:
@@ -82,6 +82,6 @@ papers:
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 83
+    citations: 84
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
