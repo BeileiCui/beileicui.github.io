@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-18'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
     citations: 22
@@ -25,6 +25,10 @@ papers:
     citations: 1
     title: Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras
     year: '2025'
+  G-WO0oYAAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: 'CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy'
+    year: '2026'
   G-WO0oYAAAAJ:O3NaXMp0MMsC:
     citations: 3
     title: 'Endo-4dgx: Robust endoscopic scene reconstruction and illumination correction with gaussian splatting'
@@ -50,7 +54,7 @@ papers:
     title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
     year: '2024'
   G-WO0oYAAAAJ:bEWYMUwI8FkC:
-    citations: 3
+    citations: 4
     title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast'
     year: '2025'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
@@ -74,7 +78,7 @@ papers:
     title: An Intelligent Traffic Light Control System Based on Dual Mode Special Vehicle Identification
     year: '2020'
   G-WO0oYAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: An image edge detection method based on Haar Wavelet Transform
     year: '2020'
   G-WO0oYAAAAJ:ufrVoPGSRksC:
@@ -82,6 +86,6 @@ papers:
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 85
+    citations: 86
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
