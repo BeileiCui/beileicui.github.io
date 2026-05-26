@@ -110,12 +110,7 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-endogsim-and-coge-are-early-accepted-by-miccai-2026",
           title: 'Two papers, EndoGSim and CoGE, are early accepted by MICCAI 2026!',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
