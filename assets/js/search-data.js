@@ -110,12 +110,7 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-endogsim-and-coge-are-early-accepted-by-miccai-2026",
           title: 'Two papers, EndoGSim and CoGE, are early accepted by MICCAI 2026!',
           description: "",
-          section: "News",},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
+          section: "News",},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
