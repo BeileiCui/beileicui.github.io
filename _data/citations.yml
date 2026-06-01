@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-01'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
     citations: 22
@@ -18,7 +18,7 @@ papers:
     title: 'SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting'
     year: '2025'
   G-WO0oYAAAAJ:IjCSPb-OGe4C:
-    citations: 38
+    citations: 39
     title: Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas
     year: '2024'
   G-WO0oYAAAAJ:J_g5lzvAfSwC:
@@ -41,12 +41,16 @@ papers:
     citations: 0
     title: 'Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation'
     year: '2026'
+  G-WO0oYAAAAJ:RYcK_YlVTxYC:
+    citations: 0
+    title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Dual-Level Scale-Oriented Contrast'
+    year: '2026'
   G-WO0oYAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 97
+    citations: 99
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
@@ -58,7 +62,7 @@ papers:
     title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
     year: '2024'
   G-WO0oYAAAAJ:bEWYMUwI8FkC:
-    citations: 4
+    citations: 5
     title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast'
     year: '2025'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
@@ -90,6 +94,6 @@ papers:
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 87
+    citations: 88
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
