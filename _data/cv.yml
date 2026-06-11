@@ -19,6 +19,22 @@ cv:
 
   sections:
     Education:
+      - institution: University of Electronic Science and Technology of China
+        location: Chengdu, China
+        url: https://en.uestc.edu.cn/
+        area: Communication Engineering
+        studyType: Bachelor
+        start_date: 2017.09
+        end_date: 2021.06
+
+      - institution: Imperial College London
+        location: London, United Kingdom
+        url: https://www.imperial.ac.uk/
+        area: Communication and Signal Processing
+        studyType: Master
+        start_date: 2021.10
+        end_date: 2022.10
+
       - institution: The Chinese University of Hong Kong
         location: Hong Kong SAR, China
         url: https://www.cuhk.edu.hk/chinese/index.html
@@ -30,8 +46,7 @@ cv:
           - 3D Reconstruction.
           - 3D Vision-Language Models.
           - Medical Image Analysis.
-
-
+          
     Experience:
       - company: Alibaba, DAMO Academy, Medical AI Lab
         position: Research Intern
@@ -47,7 +62,6 @@ cv:
         url: https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/
         summary: The MICCAI Best Paper Award and the MICCAI Young Scientist Award recognize the highest quality papers published at the main MICCAI conference. Three MICCAI Best Paper Awards and five MICCAI Young Scientist Awards are issued each year.
 
-    Awards:
       - title: MICCAI Best Paper Candidate
         date: 2025-09-29
         awarder: MICCAI Society
@@ -55,8 +69,9 @@ cv:
         summary: The MICCAI Best Paper Award and the MICCAI Young Scientist Award recognize the highest quality papers published at the main MICCAI conference. Three MICCAI Best Paper Awards and five MICCAI Young Scientist Awards are issued each year.
         
       - title: The Vice Chancellor scholarship of CUHK
-        date: 2033
+        date: 2022
         awarder: The Chinese University of Hong Kong
+        url: https://www.eng.cuhk.edu.hk/programmes/research-postgraduate-programme/phd-in-applied-english-linguistics/scholarships/cuhk-vice-chancellors-phd-scholarship-scheme/
         summary: This prestigious award is aimed at the highest-caliber candidates applying for full-time Ph.D. programs at CUHK.
 
     Languages:
