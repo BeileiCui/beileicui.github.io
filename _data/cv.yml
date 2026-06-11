@@ -16,8 +16,6 @@ cv:
     street: Ma Liu Shui
     city: Hong Kong SAR
     region: China
-    postalCode: 999077
-    countryCode: HK
 
   sections:
     Education:
@@ -35,31 +33,31 @@ cv:
 
 
     Experience:
-      - company: Alibaba Demo Academy
+      - company: Alibaba, DAMO Academy, Medical AI Lab
         position: Research Intern
-        location: Hang Zhou, China
+        location: Hangzhou, China
         start_date: 2025.05
         end_date: 2025.09
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+        summary: Construct a segmentation-based liver enhanced CT tumor diagnosis model, using CT image prediction combined with various blood test history data for comprehensive diagnosis. Evaluate various indicators of the enhanced CT liver tumor diagnostic model on internal and external centers, and explore the ceiling of the enhanced CT liver tumor diagnostic model
 
     Awards:
       - title: MICCAI Young Scientist Award
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 2025-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: 
+        date: 2025-09-29
+        awarder: MICCAI Society
+        url: https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/
+        summary: The MICCAI Best Paper Award and the MICCAI Young Scientist Award recognize the highest quality papers published at the main MICCAI conference. Three MICCAI Best Paper Awards and five MICCAI Young Scientist Awards are issued each year.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Awards:
+      - title: MICCAI Best Paper Candidate
+        date: 2025-09-29
+        awarder: MICCAI Society
+        url: https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/
+        summary: The MICCAI Best Paper Award and the MICCAI Young Scientist Award recognize the highest quality papers published at the main MICCAI conference. Three MICCAI Best Paper Awards and five MICCAI Young Scientist Awards are issued each year.
+        
+      - title: The Vice Chancellor scholarship of CUHK
+        date: 2033
+        awarder: The Chinese University of Hong Kong
+        summary: This prestigious award is aimed at the highest-caliber candidates applying for full-time Ph.D. programs at CUHK.
 
     Languages:
       - name: Mandarin
@@ -67,12 +65,3 @@ cv:
 
       - name: English
         summary: "Fluent"
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
