@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-12'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
     citations: 22
@@ -42,7 +42,7 @@ papers:
     title: 'Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation'
     year: '2026'
   G-WO0oYAAAAJ:RYcK_YlVTxYC:
-    citations: 0
+    citations: 5
     title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Dual-Level Scale-Oriented Contrast'
     year: '2026'
   G-WO0oYAAAAJ:Tyk-4Ss8FVUC:
@@ -50,7 +50,7 @@ papers:
     title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 99
+    citations: 101
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
@@ -61,10 +61,6 @@ papers:
     citations: 5
     title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
     year: '2024'
-  G-WO0oYAAAAJ:bEWYMUwI8FkC:
-    citations: 5
-    title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast'
-    year: '2025'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
     citations: 2
     title: Benchmarking robustness of endoscopic depth estimation with synthetically corrupted data
@@ -94,6 +90,6 @@ papers:
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 88
+    citations: 90
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
