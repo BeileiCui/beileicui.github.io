@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
     citations: 22
@@ -18,7 +18,7 @@ papers:
     title: 'SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting'
     year: '2025'
   G-WO0oYAAAAJ:IjCSPb-OGe4C:
-    citations: 41
+    citations: 43
     title: Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas
     year: '2024'
   G-WO0oYAAAAJ:J_g5lzvAfSwC:
@@ -50,7 +50,7 @@ papers:
     title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 103
+    citations: 104
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
@@ -62,7 +62,7 @@ papers:
     title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
     year: '2024'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
-    citations: 2
+    citations: 3
     title: Benchmarking robustness of endoscopic depth estimation with synthetically corrupted data
     year: '2024'
   G-WO0oYAAAAJ:ns9cj8rnVeAC:
