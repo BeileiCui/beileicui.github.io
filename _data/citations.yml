@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
-    citations: 24
+    citations: 25
     title: Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
     year: '2025'
   G-WO0oYAAAAJ:9ZlFYXVOiuMC:
@@ -14,15 +14,15 @@ papers:
     title: 'Rectifying Noisy Labels with Sequential Prior: Multi-scale Temporal Feature Affinity Learning for Robust Video Segmentation'
     year: '2023'
   G-WO0oYAAAAJ:GnPB-g6toBAC:
-    citations: 8
+    citations: 9
     title: 'SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting'
     year: '2025'
   G-WO0oYAAAAJ:IjCSPb-OGe4C:
-    citations: 45
+    citations: 46
     title: Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas
     year: '2024'
   G-WO0oYAAAAJ:J_g5lzvAfSwC:
-    citations: 0
+    citations: 1
     title: 'EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting'
     year: '2026'
   G-WO0oYAAAAJ:L8Ckcad2t8MC:
@@ -34,7 +34,7 @@ papers:
     title: 'CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy'
     year: '2026'
   G-WO0oYAAAAJ:O3NaXMp0MMsC:
-    citations: 4
+    citations: 5
     title: 'Endo-4dgx: Robust endoscopic scene reconstruction and illumination correction with gaussian splatting'
     year: '2025'
   G-WO0oYAAAAJ:RGFaLdJalmkC:
@@ -42,7 +42,7 @@ papers:
     title: 'Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation'
     year: '2026'
   G-WO0oYAAAAJ:RYcK_YlVTxYC:
-    citations: 5
+    citations: 6
     title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Dual-Level Scale-Oriented Contrast'
     year: '2026'
   G-WO0oYAAAAJ:Tyk-4Ss8FVUC:
@@ -50,7 +50,7 @@ papers:
     title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 110
+    citations: 111
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
@@ -58,7 +58,7 @@ papers:
     title: Registering neural 4d gaussians for endoscopic surgery
     year: '2024'
   G-WO0oYAAAAJ:YsMSGLbcyi4C:
-    citations: 5
+    citations: 6
     title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
     year: '2024'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
@@ -74,7 +74,7 @@ papers:
     title: Multimodal graph representation learning for robust surgical workflow recognition with adversarial feature disentanglement
     year: '2025'
   G-WO0oYAAAAJ:qjMakFHDy7sC:
-    citations: 95
+    citations: 100
     title: 'Surgical-DINO: Adapter Learning of Foundation Models for Depth Estimation in Endoscopic Surgery'
     year: '2024'
   G-WO0oYAAAAJ:u-x6o8ySG0sC:
@@ -89,7 +89,11 @@ papers:
     citations: 1
     title: 3D reconstruction of deformable tissues in robotic surgery
     year: '2025'
+  G-WO0oYAAAAJ:vV6vV6tmYwMC:
+    citations: 0
+    title: Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation
+    year: '2026'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 95
+    citations: 98
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
