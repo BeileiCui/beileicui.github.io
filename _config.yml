@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Beilei
-middle_name: 
+middle_name:
 last_name: Cui
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -39,7 +39,7 @@ repo_trophies:
 # update these URLs. These are used in the repository templates.
 external_services:
   github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+  github_profile_trophy_url: https://github-profile-trophy-1.vercel.app
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -162,7 +162,7 @@ collections:
     output: true
   teachings:
     output: true
-    
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------

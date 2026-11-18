@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 One paper on monocular depth estimation is early accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/).
-
-

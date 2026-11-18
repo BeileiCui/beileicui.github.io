@@ -6,6 +6,3 @@ related_posts: false
 ---
 
 Two papers, [Endo-4DGX](https://papers.miccai.org/miccai-2025/paper/1320_paper.pdf) and [SurgTPGS](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_56), are accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/).
-
-
-
