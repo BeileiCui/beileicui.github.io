@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Open-source code for my research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -95,11 +95,14 @@ ninja.data = [{
           section: "News",},{id: "news-endo3dac-on-surgical-monocular-depth-estimation-and-3d-reconstruction-is-online",
           title: 'Endo3DAC on surgical monocular depth estimation and 3D reconstruction is online.',
           description: "",
-          section: "News",},{id: "news-two-papers-endo-4dgx-and-surgovgs-are-accepted-by-miccai-2025",
-          title: 'Two papers, Endo-4DGX and SurgOVGS, are accepted by MICCAI 2025.',
+          section: "News",},{id: "news-two-papers-endo-4dgx-and-surgtpgs-are-accepted-by-miccai-2025",
+          title: 'Two papers, Endo-4DGX and SurgTPGS, are accepted by MICCAI 2025.',
           description: "",
           section: "News",},{id: "news-tr2m-on-transferring-relative-depth-to-metric-depth-is-online",
           title: 'TR2M on transferring relative depth to metric depth is online.',
+          description: "",
+          section: "News",},{id: "news-surgtpgs-received-the-miccai-young-scientist-award-at-miccai-2025-5-awarded-out-of-3677-submissions",
+          title: 'SurgTPGS received the MICCAI Young Scientist Award at MICCAI 2025 (5 awarded out...',
           description: "",
           section: "News",},{id: "news-one-paper-endoddc-on-endoscopic-depth-completion-is-accepted-by-icra-2026",
           title: 'One paper, EndoDDC on endoscopic depth completion, is accepted by ICRA 2026!',
@@ -109,6 +112,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-endogsim-and-coge-are-early-accepted-by-miccai-2026",
           title: 'Two papers, EndoGSim and CoGE, are early accepted by MICCAI 2026!',
+          description: "",
+          section: "News",},{id: "news-our-paper-large-scale-ai-guided-liver-malignancy-diagnosis-multicenter-study-and-a-single-arm-trial-is-published-in-nature-medicine",
+          title: 'Our paper Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
@@ -125,7 +131,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/CV_Beilei_Cui.pdf", "_blank");
         },
       },{
         id: 'social-email',
