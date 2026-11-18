@@ -1,48 +1,61 @@
+---
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-11-18'
 papers:
+  G-WO0oYAAAAJ:2P1L_qKh6hAC:
+    citations: 0
+    title: 'SurgTPGS++: Text-promptable Gaussian Splatting with dense features aggregation for semantic 4D surgical scene understanding'
+    year: '2026'
   G-WO0oYAAAAJ:35N4QoGY0k4C:
     citations: 0
-    title: Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment
+    title: 'Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment'
     year: '2026'
   G-WO0oYAAAAJ:70eg2SAEIzsC:
-    citations: 0
+    citations: 2
     title: 'Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial'
     year: '2026'
   G-WO0oYAAAAJ:7PzlFSSx8tAC:
-    citations: 26
-    title: Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
+    citations: 31
+    title: 'Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping'
     year: '2025'
   G-WO0oYAAAAJ:9ZlFYXVOiuMC:
-    citations: 10
+    citations: 14
     title: 'V 2-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy'
     year: '2025'
   G-WO0oYAAAAJ:9yKSN-GCB0IC:
-    citations: 10
+    citations: 12
     title: 'Rectifying Noisy Labels with Sequential Prior: Multi-scale Temporal Feature Affinity Learning for Robust Video Segmentation'
     year: '2023'
   G-WO0oYAAAAJ:GnPB-g6toBAC:
-    citations: 12
+    citations: 19
     title: 'SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting'
     year: '2025'
+  G-WO0oYAAAAJ:HoB7MX3m0LUC:
+    citations: 0
+    title: 'RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching'
+    year: '2026'
   G-WO0oYAAAAJ:IjCSPb-OGe4C:
-    citations: 47
-    title: Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas
+    citations: 51
+    title: 'Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas'
     year: '2024'
   G-WO0oYAAAAJ:J_g5lzvAfSwC:
-    citations: 1
+    citations: 2
     title: 'EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting'
     year: '2026'
   G-WO0oYAAAAJ:L8Ckcad2t8MC:
-    citations: 2
-    title: Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras
+    citations: 4
+    title: 'Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras'
     year: '2025'
+  G-WO0oYAAAAJ:M05iB0D1s5AC:
+    citations: 0
+    title: 'StenoVLA-3D: 3D-Aware Reasoning VLA for Navigation Through Gastrointestinal Stenoses'
+    year: '2026'
   G-WO0oYAAAAJ:NaGl4SEjCO4C:
     citations: 0
     title: 'CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy'
     year: '2026'
   G-WO0oYAAAAJ:O3NaXMp0MMsC:
-    citations: 5
+    citations: 14
     title: 'Endo-4dgx: Robust endoscopic scene reconstruction and illumination correction with gaussian splatting'
     year: '2025'
   G-WO0oYAAAAJ:RGFaLdJalmkC:
@@ -50,58 +63,62 @@ papers:
     title: 'Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation'
     year: '2026'
   G-WO0oYAAAAJ:RYcK_YlVTxYC:
-    citations: 6
+    citations: 9
     title: 'TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Dual-Level Scale-Oriented Contrast'
     year: '2026'
   G-WO0oYAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
-    title: Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings
+    title: 'Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings'
     year: '2024'
   G-WO0oYAAAAJ:WF5omc3nYNoC:
-    citations: 117
+    citations: 137
     title: 'Endo-4dgs: Endoscopic monocular scene reconstruction with 4d gaussian splatting'
     year: '2024'
   G-WO0oYAAAAJ:Y0pCki6q_DkC:
     citations: 3
-    title: Registering neural 4d gaussians for endoscopic surgery
+    title: 'Registering neural 4d gaussians for endoscopic surgery'
     year: '2024'
   G-WO0oYAAAAJ:YsMSGLbcyi4C:
     citations: 6
-    title: Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery
+    title: 'Long-term reprojection loss for self-supervised monocular depth estimation in endoscopic surgery'
     year: '2024'
   G-WO0oYAAAAJ:eQOLeE2rZwMC:
     citations: 5
-    title: Benchmarking robustness of endoscopic depth estimation with synthetically corrupted data
+    title: 'Benchmarking robustness of endoscopic depth estimation with synthetically corrupted data'
     year: '2024'
-  G-WO0oYAAAAJ:ns9cj8rnVeAC:
+  G-WO0oYAAAAJ:g5m5HwL7SMYC:
     citations: 0
+    title: 'MEDE-TTA: Cross-Scenario Monocular Endoscopy Depth Estimation via Test Time Adaptation'
+    year: '2026'
+  G-WO0oYAAAAJ:ns9cj8rnVeAC:
+    citations: 1
     title: 'EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion'
     year: '2026'
   G-WO0oYAAAAJ:qUcmZB5y_30C:
-    citations: 8
-    title: Multimodal graph representation learning for robust surgical workflow recognition with adversarial feature disentanglement
+    citations: 12
+    title: 'Multimodal graph representation learning for robust surgical workflow recognition with adversarial feature disentanglement'
     year: '2025'
   G-WO0oYAAAAJ:qjMakFHDy7sC:
-    citations: 101
+    citations: 113
     title: 'Surgical-DINO: Adapter Learning of Foundation Models for Depth Estimation in Endoscopic Surgery'
     year: '2024'
   G-WO0oYAAAAJ:u-x6o8ySG0sC:
     citations: 2
-    title: An Intelligent Traffic Light Control System Based on Dual Mode Special Vehicle Identification
+    title: 'An Intelligent Traffic Light Control System Based on Dual Mode Special Vehicle Identification'
     year: '2020'
   G-WO0oYAAAAJ:u5HHmVD_uO8C:
-    citations: 13
-    title: An image edge detection method based on Haar Wavelet Transform
+    citations: 14
+    title: 'An image edge detection method based on Haar Wavelet Transform'
     year: '2020'
   G-WO0oYAAAAJ:ufrVoPGSRksC:
     citations: 1
-    title: 3D reconstruction of deformable tissues in robotic surgery
+    title: '3D reconstruction of deformable tissues in robotic surgery'
     year: '2025'
   G-WO0oYAAAAJ:vV6vV6tmYwMC:
-    citations: 0
-    title: Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation
+    citations: 2
+    title: 'Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation'
     year: '2026'
   G-WO0oYAAAAJ:zYLM7Y9cAGgC:
-    citations: 104
+    citations: 135
     title: 'Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera'
     year: '2024'
