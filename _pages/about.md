@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Chinese University of Hong Kong</a>.
+subtitle: <a href='https://www.ee.cuhk.edu.hk/en-gb/'>The Chinese University of Hong Kong</a>.
 
 profile:
   align: right

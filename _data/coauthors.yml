@@ -5,6 +5,8 @@
 "wang":
   - firstname: ["An", "A."]
     url: https://lofrienger.github.io/
+  - firstname: ["Guankun", "G."]
+    url: https://gkwang-cuhk.github.io/
 
 "xu":
   - firstname: ["Mengya", "M."]
@@ -26,6 +28,3 @@
   - firstname: ["Sishen", "S."]
     url: https://scholar.google.com/citations?user=oq5omiMAAAAJ
 
-"wang":
-  - firstname: ["Guankun", "G."]
-    url: https://gkwang-cuhk.github.io/
