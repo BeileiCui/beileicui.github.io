@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial](https://www.nature.com/articles/s41591-026-04589-y) is published in [Nature Medicine](https://www.nature.com/nm/)!
+Our paper [LiON](https://www.nature.com/articles/s41591-026-04589-y) on large-scale AI-guided liver malignancy diagnosis is published in [Nature Medicine](https://www.nature.com/nm/)!
